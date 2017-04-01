@@ -1,0 +1,137 @@
+body{
+    background-color: black;}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;}
+th{
+    padding:15px;
+    height: 10px; width: 10px;
+    margin: 0px;
+    color: #fff;}
+.one{ background-color: cyan;}
+.two{
+    background-color: cyan;}
+.three{background-color: deeppink;}
+.four{background-color: teal}
+.five{background-color: orange;}
+.six{background-color: cyan;}
+.seven{background-color: cyan;}
+.eight{background-color: cyan;}
+.nine{background-color: lightseagreen}
+.ten{background-color: mediumseagreen;}
+.eleven{background-color: deeppink;}
+.twelve{background-color: teal}
+.thirteen{background-color: orangered;}
+.forteen{background-color: orange;}
+.fifteen{background-color: cyan;}
+.sixteen{background-color: cyan;}
+.seventeen{background-color: lawngreen;}
+.eighteen{background-color:teal;  }
+.fx1{background-color: deeppink;}
+.fx2{background-color: teal}
+.fx3{background-color: deeppink;}
+.fx4{background-color: deeppink;}
+.fx5{background-color: deeppink;}
+.fx6{background-color: deeppink;}
+.fx7{background-color: deeppink;}
+.fx8{background-color: deeppink;}
+.fx9{background-color: deeppink;}
+.fx10{background-color: deeppink;}
+.fx11{background-color: deeppink;}
+.fx12{background-color: deeppink;}
+.fx13{background-color: mediumvioletred;}
+.fx14{background-color: orange;}
+.fx15{background-color: orange;}
+.fx16{background-color: cyan;}
+.fx17{background-color: lightgreen;}
+.fx18{background-color: teal;}
+.fy1{background-color: deeppink;}
+.fy2{background-color: teal}
+.fy3{background-color: deeppink;}
+.fy4{background-color: deeppink;}
+.fy5{background-color: deeppink;}
+.fy6{background-color: deeppink;}
+.fy7{background-color: deeppink;}
+.fy8{background-color: deeppink;}
+.fy9{background-color: deeppink;}
+.fy10{background-color: deeppink;}
+.fy11{background-color: deeppink;}
+.fy12{background-color: deeppink;}
+.fy13{background-color: mediumvioletred;}
+.fy14{background-color: orange;}
+.fy15{background-color: orange;}
+.fy16{background-color: cyan;}
+.fy17{background-color: lightgreen;}
+.fy18{background-color: teal;}
+.fz1{background-color: deeppink;}
+.fz2{background-color: teal}
+.fz3{background-color: deeppink;}
+.fz4{background-color: deeppink;}
+.fz5{background-color: deeppink;}
+.fz6{background-color: deeppink;}
+.fz7{background-color: deeppink;}
+.fz8{background-color: deeppink;}
+.fz9{background-color: deeppink;}
+.fz10{background-color: deeppink;}
+.fz11{background-color: deeppink;}
+.fz12{background-color: deeppink;}
+.fz13{background-color: mediumvioletred;}
+.fz14{background-color: orange;}
+.fz15{background-color: orange;}
+.fz16{background-color: cyan;}
+.fz17{background-color: lightgreen;}
+.fz18{background-color: teal;}
+.fa1{background-color: deeppink;}
+.fa2{background-color: teal}
+.fa3{background-color: deeppink;}
+.fa4{background-color: deeppink;}
+.fa5{background-color: deeppink;}
+.fa6{background-color: deeppink;}
+.fa7{background-color: deeppink;}
+.fa8{background-color: deeppink;}
+.fa9{background-color: deeppink;}
+.fa10{background-color: deeppink;}
+.fa11{background-color: deeppink;}
+.fa12{background-color: deeppink;}
+.fa13{background-color: mediumvioletred;}
+.fa14{background-color: orange;}
+.fa15{background-color: orange;}
+.fa16{background-color: cyan;}
+.fa17{background-color: lightgreen;}
+.fa18{background-color: teal;}
+
+.fb2{background-color: teal;}
+.fb3{background-color: teal;}
+.fb4{background-color: teal;}
+.fb5{background-color: teal;}
+.fb6{background-color: teal;}
+.fb7{background-color: teal;}
+.fb8{background-color: teal;}
+.fb9{background-color: teal;}
+.fb10{background-color: teal;}
+.fb11{background-color: teal;}
+.fb12{background-color: teal;}
+.fb13{background-color: teal;}
+.fb14{background-color: teal;}
+.fb15{background-color: teal;}
+.fb16{background-color: teal;}
+.fb17{background-color: teal;}
+.fb18{background-color: teal;}
+
+.fc2{background-color: rebeccapurple;}
+.fc3{background-color: rebeccapurple;}
+.fc4{background-color: rebeccapurple;}
+.fc5{background-color: rebeccapurple;}
+.fc6{background-color: rebeccapurple;}
+.fc7{background-color: rebeccapurple;}
+.fc8{background-color: rebeccapurple;}
+.fc9{background-color: rebeccapurple;}
+.fc10{background-color: rebeccapurple;}
+.fc11{background-color: rebeccapurple;}
+.fc12{background-color: rebeccapurple;}
+.fc13{background-color: rebeccapurple;}
+.fc14{background-color: rebeccapurple;}
+.fc15{background-color: rebeccapurple;}
+.fc16{background-color: rebeccapurple;}
+.fc17{background-color: rebeccapurple;}
+.fc18{background-color: rebeccapurple;}
